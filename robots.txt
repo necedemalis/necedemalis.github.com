@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://necedemalis.github.com/sitemap.xml 
