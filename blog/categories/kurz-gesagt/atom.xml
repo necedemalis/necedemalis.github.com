@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Kategorie: Kurz gesagt | Ne cede malis]]></title>
-  <link href="http://necedemalis.github.com/blog/categories/kurz-gesagt/atom.xml" rel="self"/>
-  <link href="http://necedemalis.github.com/"/>
-  <updated>2013-06-25T10:58:11+02:00</updated>
-  <id>http://necedemalis.github.com/</id>
+  <link href="http://necedemalis.github.io/blog/categories/kurz-gesagt/atom.xml" rel="self"/>
+  <link href="http://necedemalis.github.io/"/>
+  <updated>2013-07-31T13:26:28+02:00</updated>
+  <id>http://necedemalis.github.io/</id>
   <author>
     <name><![CDATA[Frasier Crane]]></name>
     <email><![CDATA[admin@necedemalis.info]]></email>
@@ -15,29 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[Formalismus und Freier Markt]]></title>
-    <link href="http://necedemalis.github.com/blog/2013/02/28/formalismus-und-freier-markt/"/>
+    <link href="http://necedemalis.github.io/blog/2013/02/28/formalismus-und-freier-markt/"/>
     <updated>2013-02-28T15:18:00+01:00</updated>
-    <id>http://necedemalis.github.com/blog/2013/02/28/formalismus-und-freier-markt</id>
+    <id>http://necedemalis.github.io/blog/2013/02/28/formalismus-und-freier-markt</id>
     <content type="html"><![CDATA[<p><blockquote><p>The beauty of the free market economy is that it allows for maximum predictability in its approaches, while surprising us again and again with the most unpredictable of solutions.</p><footer><strong>Nima</strong> <cite><a href='http://www.economicsjunkie.com/the-beauty-of-the-free-market-economy/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+economicsjunkie+%28EconomicsJunkie.com%29'>Economics Junkie</a></cite></footer></blockquote></p>
-
-<!---
-
-Dieses schöne Zitat von Nimas von *Economics Junkie* macht deutlich, dass der freie Markt auf
-vorhersehbaren auf simplen Axiomen basiert, aber stets neuen, wechselhaften Regeln unterworfen
-ist, die zum Aufbau komplexär Reihen und Systemn führt, die nicht vorhergesagt werden können.
-Da die Folgen nicht rekursiv zu den aussgehenden Axiomen rückgearbeitet werden können, ist die
-Bewertung von wirtschaftlichen Fallstudien rein interpretativ, kann aber nie zu einer
-grundlegenden wirtschaftlichen Systembildung führen. Dies bedeutet, dass Wirtschaftstheorie nur
-anhand eines abstrakten formalen Systems, welches rein logische Grundlagen besitzt. -->
-
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Tick, Tack...]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/07/31/tick-tack/"/>
+    <link href="http://necedemalis.github.io/blog/2012/07/31/tick-tack/"/>
     <updated>2012-07-31T02:14:40+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/07/31/tick-tack</id>
+    <id>http://necedemalis.github.io/blog/2012/07/31/tick-tack</id>
     <content type="html"><![CDATA[<p>Fast so spannend wie eine Folge "24":</p>
 
 <p>
@@ -118,9 +107,9 @@ Bubbles ooh you’re turn me on</p>
   
   <entry>
     <title type="html"><![CDATA[Keynesianismus für Dummies]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/07/21/keynesianismus-fur-dummies/"/>
+    <link href="http://necedemalis.github.io/blog/2012/07/21/keynesianismus-fur-dummies/"/>
     <updated>2012-07-21T20:20:21+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/07/21/keynesianismus-fur-dummies</id>
+    <id>http://necedemalis.github.io/blog/2012/07/21/keynesianismus-fur-dummies</id>
     <content type="html"><![CDATA[<p>Denn ein Bild sagt immer mehr als 1000 Wirtschaftsexperten und WU-Professoren:
 <a href="http://necedemalis.github.com/images/keynes.jpeg"><img src="http://necedemalis.github.com/images/keynes.jpeg" alt="" /></a></p>
 

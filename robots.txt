@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://necedemalis.github.com/sitemap.xml 
+Sitemap: http://necedemalis.github.io/sitemap.xml 

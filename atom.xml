@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Ne cede malis]]></title>
-  <link href="http://necedemalis.github.com/atom.xml" rel="self"/>
-  <link href="http://necedemalis.github.com/"/>
-  <updated>2013-06-25T10:58:11+02:00</updated>
-  <id>http://necedemalis.github.com/</id>
+  <link href="http://necedemalis.github.io/atom.xml" rel="self"/>
+  <link href="http://necedemalis.github.io/"/>
+  <updated>2013-07-31T13:26:28+02:00</updated>
+  <id>http://necedemalis.github.io/</id>
   <author>
     <name><![CDATA[Frasier Crane]]></name>
     <email><![CDATA[admin@necedemalis.info]]></email>
@@ -15,30 +15,19 @@
   
   <entry>
     <title type="html"><![CDATA[Formalismus und Freier Markt]]></title>
-    <link href="http://necedemalis.github.com/blog/2013/02/28/formalismus-und-freier-markt/"/>
+    <link href="http://necedemalis.github.io/blog/2013/02/28/formalismus-und-freier-markt/"/>
     <updated>2013-02-28T15:18:00+01:00</updated>
-    <id>http://necedemalis.github.com/blog/2013/02/28/formalismus-und-freier-markt</id>
+    <id>http://necedemalis.github.io/blog/2013/02/28/formalismus-und-freier-markt</id>
     <content type="html"><![CDATA[<blockquote><p>The beauty of the free market economy is that it allows for maximum predictability in its approaches, while surprising us again and again with the most unpredictable of solutions.</p><footer><strong>Nima</strong> <cite><a href='http://www.economicsjunkie.com/the-beauty-of-the-free-market-economy/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+economicsjunkie+%28EconomicsJunkie.com%29'>Economics Junkie</a></cite></footer></blockquote>
-
-
-<!---
-
-Dieses schöne Zitat von Nimas von *Economics Junkie* macht deutlich, dass der freie Markt auf
-vorhersehbaren auf simplen Axiomen basiert, aber stets neuen, wechselhaften Regeln unterworfen
-ist, die zum Aufbau komplexär Reihen und Systemn führt, die nicht vorhergesagt werden können.
-Da die Folgen nicht rekursiv zu den aussgehenden Axiomen rückgearbeitet werden können, ist die
-Bewertung von wirtschaftlichen Fallstudien rein interpretativ, kann aber nie zu einer
-grundlegenden wirtschaftlichen Systembildung führen. Dies bedeutet, dass Wirtschaftstheorie nur
-anhand eines abstrakten formalen Systems, welches rein logische Grundlagen besitzt. -->
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Tick, Tack...]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/07/31/tick-tack/"/>
+    <link href="http://necedemalis.github.io/blog/2012/07/31/tick-tack/"/>
     <updated>2012-07-31T02:14:40+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/07/31/tick-tack</id>
+    <id>http://necedemalis.github.io/blog/2012/07/31/tick-tack</id>
     <content type="html"><![CDATA[<p>Fast so spannend wie eine Folge &#8220;24&#8221;:</p>
 
 <div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('GXcLVDhS8fM');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/GXcLVDhS8fM?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
@@ -119,9 +108,9 @@ Bubbles ooh you’re turn me on</p>
   
   <entry>
     <title type="html"><![CDATA[Deutschland am Scheideweg]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/07/25/deutschland-am-scheidweg/"/>
+    <link href="http://necedemalis.github.io/blog/2012/07/25/deutschland-am-scheidweg/"/>
     <updated>2012-07-25T16:14:47+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/07/25/deutschland-am-scheidweg</id>
+    <id>http://necedemalis.github.io/blog/2012/07/25/deutschland-am-scheidweg</id>
     <content type="html"><![CDATA[<p>Philipp Bagus skizziert in seinem erfolgreichen Buch <a href="https://mises.org/document/6045">&#8216;Die Tragödie des Euro&#8217;</a>
 (&#8216;The Tragedy of the Euro&#8217;, 2011) in knapper Form die Probleme des Euros und der Europäischen
 Währungsunion (EWS) und erläutert, weshalb diese von Beginn an zum Scheitern verurteilt war.
@@ -248,9 +237,9 @@ die Frage stellen, weshalb Deutschland gerade diesen Weg einschlagen musste.</p>
   
   <entry>
     <title type="html"><![CDATA[Keynesianismus für Dummies]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/07/21/keynesianismus-fur-dummies/"/>
+    <link href="http://necedemalis.github.io/blog/2012/07/21/keynesianismus-fur-dummies/"/>
     <updated>2012-07-21T20:20:21+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/07/21/keynesianismus-fur-dummies</id>
+    <id>http://necedemalis.github.io/blog/2012/07/21/keynesianismus-fur-dummies</id>
     <content type="html"><![CDATA[<p>Denn ein Bild sagt immer mehr als 1000 Wirtschaftsexperten und WU-Professoren:
 <a href="http://necedemalis.github.com/images/keynes.jpeg"><img src="http://necedemalis.github.com/images/keynes.jpeg" alt="" /></a></p>
 
@@ -260,9 +249,9 @@ die Frage stellen, weshalb Deutschland gerade diesen Weg einschlagen musste.</p>
   
   <entry>
     <title type="html"><![CDATA[Replik auf Peter Kampits: Der Tanz um das Goldene Kalb]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/07/15/replik-auf-peter-kampits-der-tanz-um-das-goldene-kalb/"/>
+    <link href="http://necedemalis.github.io/blog/2012/07/15/replik-auf-peter-kampits-der-tanz-um-das-goldene-kalb/"/>
     <updated>2012-07-15T20:33:04+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/07/15/replik-auf-peter-kampits-der-tanz-um-das-goldene-kalb</id>
+    <id>http://necedemalis.github.io/blog/2012/07/15/replik-auf-peter-kampits-der-tanz-um-das-goldene-kalb</id>
     <content type="html"><![CDATA[<p>Heute (3. Juli 2012) erschien in den Salzburger Nachrichten in der Sparte &#8220;Geist &amp; Welt&#8221; ein Artikel  des österreichischen Philosophen und &#8220;Ethikers&#8221; Peter Kampits, der &#8220;sich mit den Fragen nach Gut und Böse auseinandersetzt&#8221;. Das Essay mit dem Titel &#8220;Der Tanz um das Goldene Kalb&#8221; ist in seiner Banalität und Naivität geradezu erstaunlich und verdient das selbstgewählte Attribut &#8220;Wirtschaftsethik&#8221;.
 Ich möchte in diesem Blog-Eintrag einige Ausschnitte des Textes exzerpieren und kommentieren um auf die Kurzsichtigkeit und in Folge die Gefährlichkeit der Ideen und Gedanken des (in diesem Artikel perfekt vertretenen) wirtschaftlichen Mainstreams aufmerksam zu machen.</p>
 
@@ -347,9 +336,9 @@ Hierin liegt wieder ein Fehlschluss, denn der Affekt eines einzelnen Individuums
   
   <entry>
     <title type="html"><![CDATA[jÖH schau!]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/06/27/joh-schau/"/>
+    <link href="http://necedemalis.github.io/blog/2012/06/27/joh-schau/"/>
     <updated>2012-06-27T03:14:41+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/06/27/joh-schau</id>
+    <id>http://necedemalis.github.io/blog/2012/06/27/joh-schau</id>
     <content type="html"><![CDATA[<h3>Doch die Verhältnisse&#8230;</h3>
 
 <p>Diesen Montag habe ich mit gewohnter wöchentlicher Regelmäßigkeit den Newsletter der Österreichischen Hochschülerschaft Salzburg erhalten. Dort findet sich gegen Ende, wie in den meisten ÖH-Newslettern, ein Hinweis auf einen wirtschaftstheoretischen Vortrag. Das klingt an sich eigentlich gar nicht schlecht, da man so der wirtschaftlichen Realität eher fernstehenden Student und Innen (von denen es doch eine gehäufte Menge gibt) dieses Thema vielleicht schmackhaft machen kann. Jedoch, mit wirtschaftlicher Realität (sprich Rationalität) hat es sich leider nicht viel, wenn man sich doch einmal gemüßigt fühlen sollte den Link in so einem ÖH-Newsletter anzuklicken (– wofür man natürlich erstmals den Newsletter öffnen müsste, welcher, unterstelle ich jetzt einfach mal, bei den meisten StudentInnen sehr schnell ungelesen auf Seite 2 von 5920 des Unimail-Accounts verschwindet, verdrängt durch die xte Anfrage nach Vorlesungsunterlagen, Aufforderungen zur Teilnahme an sozialwissenschaftlichen Experimenten oder einfach generellem Uni-Bullshit.)
@@ -395,9 +384,9 @@ Die restlichen, teils abstrusen, Positionen kann sich der Leser gerne selbst zu 
   
   <entry>
     <title type="html"><![CDATA[Machtkonzentration und Machtteilung]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/06/10/machtkonzentration-und-machtteilung/"/>
+    <link href="http://necedemalis.github.io/blog/2012/06/10/machtkonzentration-und-machtteilung/"/>
     <updated>2012-06-10T14:44:30+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/06/10/machtkonzentration-und-machtteilung</id>
+    <id>http://necedemalis.github.io/blog/2012/06/10/machtkonzentration-und-machtteilung</id>
     <content type="html"><![CDATA[<p><em>&#8220;</em>[&#8230;]<em> many liberal socialists are guided in their endeavors by the tragic illusion that by depriving private individuals of the power they possess in an individualist system, and by transferring this power to society, they can thereby extinguish power. What all those who argue in this manner overlook is that, <a href="http://europa.eu/lisbon_treaty/glance/index_de.htm">by concentrating power</a> so that it can be used in the service of a single plan, it is not merely transferred but infinitely heightened; that, by uniting in the hands of some single body power formerly exercised independently by many, an amount of power is created infinitely greater than any that existed before, so much more far-reaching as almost to be different in kind. It is entirely fallacious when it is sometimes argued that the great power exercised by a central planning board would be &#8216;no greater than the power collectively exercised by private boards of directors.&#8217; There is, in a competitive society, nobody who can exercise even a fraction of the power which a socialist planning board would possess, and if nobody can consciously use the power, it is just an abuse of words to assert that it rests with all the capitalists put together. It is merely a play upon words to speak of the &#8216;power collectively exercised by private boards of directors&#8217; so long as they do not combine to concerted action – which would, of course, mean the end of competition and the creation of a planned economy. <strong>To split or decentralize power is necessarily to reduce the absolute amount of power, and the competitive system is the only system designed to minimize by decentralization the power exercised by man over man. </strong>
 We have seen before how the separation of economic and political aims is an essential guaranty of individual freedom and how it is consequently attacked by all collectivists. To this we must now add that the &#8216;substitution of political for economic power&#8217; now <a href="https://derstandard.at/1332324022080/Nationalrat---Oberhauser-Der-ungeregelte-Finanzmarkt-ist-schuld-ander-Krise-nicht-die-Oesterreicherinnen-und-Oesterreicher">so often demanded</a> means necessarily the substitution of power from which there is no escape for a power which is always limited. What is called economic power, while it can be an instrument of coercion, is, in the hands of private individuals, never exclusive or complete power, never power over the whole life of a person. <strong>But centralized as an instrument of political power it creates a degree of dependence scarcely distinguishable from slavery.</strong>&#8221;</em></p>
 
@@ -407,9 +396,9 @@ We have seen before how the separation of economic and political aims is an esse
   
   <entry>
     <title type="html"><![CDATA[Demokratie als gesellschaftliches Endziel?]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/06/03/demokratie-als-gesellschaftliches-endziel/"/>
+    <link href="http://necedemalis.github.io/blog/2012/06/03/demokratie-als-gesellschaftliches-endziel/"/>
     <updated>2012-06-03T16:55:48+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/06/03/demokratie-als-gesellschaftliches-endziel</id>
+    <id>http://necedemalis.github.io/blog/2012/06/03/demokratie-als-gesellschaftliches-endziel</id>
     <content type="html"><![CDATA[<p>Im Jahr 2001 brachte der deutsche Ökonom Hans-Hermann Hoppe ein umstrittenes Buch mit dem Titel <a href="https://mises.org/hoppeintro.asp">&#8220;Democracy: The God that Failed&#8221;</a> (&#8220;Demokratie: Der Gott, der keiner ist&#8221;) auf den Markt. Hoppe ist bekennender <a href="http://www.liberalismus-portal.de/anarchokapitalismus.htm">&#8220;Anarchokapitalist&#8221;</a>, also eher auf der radikaleren Seite des Wirtschaftsliberalismus einzuordnen. Kernaussage des Buches ist, dass die moderne Demokratie nach Meinung Hoppes keinen Fortschritt für die gesellschaftliche Entwicklung brachte, sondern sogar im Gegenteil den Fortschritt der Gesellschaft, die individuelle Freiheit und den gesamtgesellschaftlichen Wohlstand im Laufe des 20. Jahrhunderts behinderte. Überzeugendstes Argument Hoppes (neben ein paar meiner Meinung nach weniger standhaften Argumenten) ist die Idee, dass Demokratie, ganz im Sinne der Österreichischen Schule, zuwider der <a href="http://www.economicsjunkie.com/praxeology/economics/economics-of-voluntary-action/time-preference/">Zeitpräferenz</a> der einzelnen Individuen innerhalb dieser Demokratie wirkt: Laut Hoppe verringert sich die Zeitpräferenz der einzelnen Individuen in einer fortschrittlichen Gesellschaft, da der allgemeine Wohlstand ansteigt und in Folge mehr finanzielle Ressourcen für zukünftige Bedürfnisse aufgespart und nicht für gegenwärtigen Bedarf verwendet werden. In einer Demokratie, in der die gewählten politischen Repräsentanten (im Gegensatz zu einer Monarchie) nur für eine begrenze Zeit im Amt sind und dabei ihre politischen Ziele nur am erfolgversprechendsten Populismus ausrichten, kommt es zu ständigen gesellschaftspolitischen Fluktuationen und Unsicherheiten: Die Folge sind neue Steuern, neue Gesetzgebungseskapaden und unvorhersehbare Regulierungen. Diese Ungewissheit führt in der Bevölkerung zu einer Verschiebung und zu einem Anwachsen der Zeitpräferenz: Wenn man nicht weiß, was die nähere Zukunft bringt, tendiert man dazu weniger zu sparen und mehr für gegenwärtige Bedürfnisse aufzuwenden; als Folge wird zukünftige gesellschaftliche Entwicklung gebremst.
 Mit dieser radikalen Aussage, dass Demokratie ein rückschrittliches und kein fortschrittliches System darstellt, steht Hoppe klar im Gegensatz zum modernen politischen Mainstream: Denn was könnte politisch-unkorrekter sein als die heilige Kuh &#8220;Demokratie&#8221; zu schlachten. Sachliche Argumentation kann man im politisch-korrekten (also linken) politischen Umfeld bezüglich der Thesen Hoppes natürlich nicht erwarten. Klar, dass ein <a href="https://www.youtube.com/watch?v=3SLqwz1pFdw">Qualitätsjournalist</a> wie Armin Wolf, einer der linken Chef-Propagandisten des ORF, mit einer wortgewandten Argumentation Hoppes Thesen über <a href="https://twitter.com/ArminWolf/status/191160313721257985">Twitter</a> angreift.</p>
 
@@ -432,9 +421,9 @@ Das eingeschränkte Ziele eines &#8220;reflektierten Europabewusstseins&#8221; m
   
   <entry>
     <title type="html"><![CDATA[Essenz des Individualismus]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/06/03/essenz-des-individualismus/"/>
+    <link href="http://necedemalis.github.io/blog/2012/06/03/essenz-des-individualismus/"/>
     <updated>2012-06-03T04:09:46+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/06/03/essenz-des-individualismus</id>
+    <id>http://necedemalis.github.io/blog/2012/06/03/essenz-des-individualismus</id>
     <content type="html"><![CDATA[<p><em>&#8220;This is the fundamental fact on which the whole philosophy of individualism is based. It does not assume, as is often asserted, that man is egoistic or selfish or ought to be. It merely starts from the indisputable fact that the limits of our powers of imagination make it impossible to include in our scale of values more than a sector of the needs of the whole society, and that, since, strictly speaking, scales of value can exist only in individual minds, nothing but partial scales of values exist—scales which are inevitably different and often inconsistent with each other. From this the individualist concludes that the individuals should be allowed, within defined limits, to follow their own values and preferences rather than somebody else&#8217;s; <strong>that within these spheres the individual&#8217;s system of ends should be supreme and not subject to any dictation by others</strong>. It is this recognition of the individual as the ultimate judge of his ends, the belief that as far as possible his own views ought to govern his actions, that forms the essence of the individualist position.
 This view does not, of course, exclude the recognition of social ends, or rather of a coincidence of individual ends which makes it advisable for men to combine for their pursuit. But it limits such common action to the instances where individual views coincide; what are called &#8216;social ends&#8217; are for it merely identical ends of many individuals—or ends to the achievement of which individuals are willing to contribute in return for the assistance they receive in the satisfaction of their own desires. <strong>Common action is thus limited to the fields where people agree on common ends. Very frequently these common ends will not be ultimate ends to the individuals but means which different persons can use for different purposes.</strong> In fact, people are most likely to agree on common action where the common end is not an ultimate end to them but a means capable of serving a great variety of purposes.&#8221;</em></p>
 
@@ -444,9 +433,9 @@ This view does not, of course, exclude the recognition of social ends, or rather
   
   <entry>
     <title type="html"><![CDATA["Freier" Wettbewerb + Sozialismus = Korporatismus]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/05/06/freier-wettbewerb-sozialismus-korporatismus/"/>
+    <link href="http://necedemalis.github.io/blog/2012/05/06/freier-wettbewerb-sozialismus-korporatismus/"/>
     <updated>2012-05-06T05:19:21+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/05/06/freier-wettbewerb-sozialismus-korporatismus</id>
+    <id>http://necedemalis.github.io/blog/2012/05/06/freier-wettbewerb-sozialismus-korporatismus</id>
     <content type="html"><![CDATA[<p>&#8221;[&#8230;] <em>the universal struggle against competition promises to produce in the first instance something in many respects even worse, a state of affairs which can satisfy neither planners nor liberals; <a href="http://www.lewrockwell.com/paul/paul665.html">a sort of syndicalist or &#8216;corporative&#8217; organization of industry</a>, in which competition is more or less suppressed but planning is left in the hands of the independent monopolies of the separate industries. This is the inevitable first result of a situation in which the people are united in their hostility to competition but agree on little else.<strong> By destroying competition in industry after industry, this policy puts the consumer at the mercy of the <a href="http://alles-schallundrauch.blogspot.com/2011/10/der-korporatismus-ist-unser-feind.html">joint monopolist action of capitalists</a></strong> and workers in the best organized industries. Yet, although this is a state of affairs which in wide fields has already existed for some time and although much of the muddled (and most of the interested) agitation for planning aims at it, it is not a state which is likely to persist or can be rationally justified. Such independent planning by industrial monopolies would, in fact, produce effects opposite to those at which the argument for planning aims. Once this stage is reached, the only alternative to return to competition is the control of the monopolies by the state—a control which, if it is to be made effective, must become progressively more complete and more detailed. It is this stage we are rapidly approaching. </em>[&#8230;]
 <em>If we are, nevertheless, rapidly moving toward such a state,</em>{img right http://necedemalis.github.com/images/korporatismus.jpg 194 228 Korporatismus %}<em> this is largely because most people still belive that it is must be possible <a href="http://www.handelsblatt.com/politik/deutschland/wagenknechts-neues-buch-sozialismus-aber-bitte-liberal/4374552.html">to find some middle way</a> between &#8216;atomistic&#8217; competition and central direction. Nothing, indeed, seems at first more plausible, or is more likely to appeal to reasonable people </em>[&#8230;]<em> Yet mere common sense proves a treacherous guide in this field. Although competition can bear some admixture of regulation, it cannot be combined with planning to any extent we like without ceasing to operate on an effective guide to production. Nor is &#8216;planning&#8217; a medicine which, taken in small doses, can produce the effects for which one might hope from it thoroughgoing application. <strong>Both competition and central direction become poor and inefficient tools if they are incomplete.</strong>&#8221;</em></p>
 
@@ -456,9 +445,9 @@ This view does not, of course, exclude the recognition of social ends, or rather
   
   <entry>
     <title type="html"><![CDATA[Wirtschaftliche Vereinigung – ohne politische Union]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/05/05/wirtschaftliche-vereinigung-ohne-politische-union/"/>
+    <link href="http://necedemalis.github.io/blog/2012/05/05/wirtschaftliche-vereinigung-ohne-politische-union/"/>
     <updated>2012-05-05T02:01:26+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/05/05/wirtschaftliche-vereinigung-ohne-politische-union</id>
+    <id>http://necedemalis.github.io/blog/2012/05/05/wirtschaftliche-vereinigung-ohne-politische-union</id>
     <content type="html"><![CDATA[<p><em>&#8220;Wir sehen also, daß es weder nach wirtschaftlicher Erfahrung noch in wirtschaftlicher Theorie angezeigt ist, daß große, vereinte, territoriale Einheiten zu einer gesunden Entwicklung notwendig sind. Wenn die produktivste Form von Betrieben in fast allen Gebieten die kleine Einheit ist, dann ist kein Grund vorhanden, es mit einem gigantischen einheitlichen Hinterland zu umgeben. </em>[&#8230;]<em>
 All das deutet darauf hin, daß die Wirtschaft, die das Hauptargument für die Vereinigung der Menschheit in Großraumordnungen, ja sogar in einen Weltstaat liefern sollte, tatsächlich mit dem <a href="https://mises.org/daily/2610">Grenznutzengesetz</a> das Argument für Kleinzellenstaaten liefert. </em>[&#8230;]<em>
 Die Aufgabe der heutigen großen Einheitssysteme der großen Mächte aber würde nicht notwendigerweise die Zerstörung aller wirtschaftlichen Einheiten bedeuten, genauso, wie die Aufgabe einer zentralisierten Diktatur zugunsten einer &#8216;individuellen&#8217; Selbstbestimmung nicht die Zerstörung aller früheren &#8216;sozialen&#8217; Bande bedeutet. In anderen Worten bedeutet politischer Partikularismus nicht automatisch wirtschaftlicher Partikularismus, wie wir sehr gut in den Vereinigten Staaten sehen können oder in der wirtschaftlichen Zusammenarbeit der sonst ganz unabhängigen Benelux-Staaten. Er beinhaltet keinesfalls die Neuerrichtung irgendwelcher &#8216;künstlicher&#8217; wirtschaftlicher Hindernisse, wie Zölle, Verkehrsbarrieren entlang der politischen Grenzen kleiner Staaten.
@@ -472,9 +461,9 @@ Es sind Barrieren also, die sich in der Entwicklung der Menschheit <img class="r
   
   <entry>
     <title type="html"><![CDATA[Masterplaner]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/05/04/masterplaner/"/>
+    <link href="http://necedemalis.github.io/blog/2012/05/04/masterplaner/"/>
     <updated>2012-05-04T02:06:06+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/05/04/masterplaner</id>
+    <id>http://necedemalis.github.io/blog/2012/05/04/masterplaner</id>
     <content type="html"><![CDATA[<p><em>&#8220;Darum kann kein Maß menschlicher Kontrolle, ob von Karl Marx oder <a href="http://www.wirtschaftslexikon24.net/d/deficit-spending/deficit-spending.htm">Lord Keynes</a> vorgeschlagen, eine Lösung für Probleme darstellen, welche gerade darum angestiegen sind, weil ein Organismus jeglicher menschlichen Kontrolle entwachsen ist. Die Probleme der <a href="http://www.economicsjunkie.com/the-business-cycle">modernen Wirtschaftszyklen</a> haben ihre Ursachen weder im &#8216;natürlichen&#8217; Funktionieren des Kapitalismus noch in den schlecht verwalteten oder unausgereiften Funktionen des Kommunismus. Die Ursache liegt in der <a href="http://ef-magazin.de/2011/12/06/3305-eurozone-wie-soll-eine-fiskalunion-funktionieren">Überdimensioniertheit der modernen Wirtschaftssysteme</a>. </em>[&#8230;]<em> Und diese Gigantomanie ist die natürliche Begleiterscheinung nicht nur des Kapitalismus, sondern jeder überdimensionierten Entwicklung.
 <strong>Die Idee, daß zyklische Schwankungen, insoweit sie ein Hauptproblem ausmachen, Größenphänomene sind und nicht Phänomene des Kapitalismus</strong>, scheint auch von der Tatsache bestätigt zu sein, daß zur Zeit, als sie im kommunistischen Rußland, welches groß ist, auftraten, ihre zerstörerische Natur in kapitalistischen Ländern, die sowohl politisch als auch wirtschaftlich kleingeblieben sind, ausblieben.&#8221;</em></p>
 
@@ -484,9 +473,9 @@ Es sind Barrieren also, die sich in der Entwicklung der Menschheit <img class="r
   
   <entry>
     <title type="html"><![CDATA[Kleinstaatenordnung als "politisches Mobile"]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/05/03/kleinstaatenordnung-als-politisches-mobile/"/>
+    <link href="http://necedemalis.github.io/blog/2012/05/03/kleinstaatenordnung-als-politisches-mobile/"/>
     <updated>2012-05-03T03:18:10+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/05/03/kleinstaatenordnung-als-politisches-mobile</id>
+    <id>http://necedemalis.github.io/blog/2012/05/03/kleinstaatenordnung-als-politisches-mobile</id>
     <content type="html"><![CDATA[<p><em>&#8220;Das vorhergehende Kapitel hat gezeigt, daß keine lokale, nationale oder internationale Organisation funktionieren kann, wenn sie nicht auf kleine Einheiten aufgebaut ist. Es ist das einzige Modell, das alle Probleme <a href="http://direktedemokratie.at/">wirksamer Administration</a> lösen kann. Deshalb kann wahrscheinlich weder eine <a href="http://www.welt-staat.de/portal.php?zahl=Fakten">Vereinte Welt</a> noch ein Vereintes Europa längere Zeit überdauern, wenn sie sich nach den heute existierenden Methoden vereinen, indem sie nämlich kleine wie auch große Staaten kunterbunt zusammenlegen. Solche Organisationen entbehren vor allem der inneren Balance, die ihrem Bündnis Erfolg bescheren könnte. In ihrer heutigen Form können solche Unionsversuche nur durch eine Kraft zusammengehalten werden, die <a href="http://www.ortneronline.at/?p=16337">von außen</a> kommt, wie zum Beispiel durch eine <a href="http://www.handelsblatt.com/politik/international/grosse-unruhen-politiker-fuerchten-rechtsrutsch-in-europa-seite-all/6552296-all.html">drohende Aggression</a>. Wenn diese Drohung vorbei ist, zerbrechen sie, lösen sie sich auf oder zerfallen in Einzeldiktaturen. Sie können als freie demokratische Bündnisse nicht überleben. [&#8230;]
 Deshalb müssen internationale Bündnisse praktisch, statt sich auf das schwerfällige, stabile Gleichgewicht von Großmachtorganisationen zu stützen, das leicht bewegliche Gleichgewicht von vielzelligen Kleinstaatenordnungen vorziehen. <strong>Die Lösung aller Probleme liegt auf der mikro – und nicht auf der makropolitischen Ebenen.</strong> Aus dem System sind nicht <img class="right" src="http://necedemalis.github.com/images/Mobile.gif" width="226" height="113" title="Mobile" >die <a href="https://strangemaps.files.wordpress.com/2006/10/6usa.jpg">kleinen Staaten</a>, sondern die <a href="https://strangemaps.files.wordpress.com/2006/10/littleeurope.JPG">großen Mächte</a> zu eliminieren. Das allein wird es ihnen ermöglichen, die täglichen Schwierigkeiten im sozialen Leben zu lösen, ohne eine <a href="https://de.wikipedia.org/wiki/Politisches_System_der_Europ%C3%A4ischen_Union">riesige Regierungsmaschine</a> aufzubauen, die nicht mehr zu bewältigen wäre, vorausgesetzt man brächte sie erst überhaupt zustande.&#8221;</em></p>
 
@@ -496,9 +485,9 @@ Deshalb müssen internationale Bündnisse praktisch, statt sich auf das schwerf�
   
   <entry>
     <title type="html"><![CDATA[Warum dieser Blog?]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/05/02/warum-dieser-blog/"/>
+    <link href="http://necedemalis.github.io/blog/2012/05/02/warum-dieser-blog/"/>
     <updated>2012-05-02T18:30:37+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/05/02/warum-dieser-blog</id>
+    <id>http://necedemalis.github.io/blog/2012/05/02/warum-dieser-blog</id>
     <content type="html"><![CDATA[<p>Die Entstehungsidee zu diesem Blog ist recht banal: Ich stieß beim Lesen von Leopold Kohrs Erstling &#8220;Das Ende der Großen&#8221; (1957) auf eine <a href="http://disunionnow.i2p.to/wordpress/?p=8">Passage</a>, die ich griffbereit für etwaige zukünftige Referenzen hinterlegen wollte. Anstreichen ging nicht, da das Buch nur geliehen war (– ok, ginge schon, bringt mir aber auf Dauer nicht viel und könnte ich auch mit meinem Respekt vor Geliehenem nicht vereinbaren). Gut sortiert in einer Textdatei am Heimcomputer hinterlegen wäre auch eine Möglichkeit gewesen, genauso wie ich das mit anderen Zitaten schon gemacht habe. Irgendwann&#8230; Irgendwo&#8230;
 Also kam ich auf die Idee Passagen zum Thema <strong>(Neo–)Liberalismus, Österreichische Schule, Dezentralisierung und Föderalismus</strong> doch griffbereit in einem Blog zu sammeln. Für MICH. Aber dann schien mir, sollte ich damit nebenbei die Gedanken dieser Autoren, die es vielleicht zum Teil bis jetzt noch nicht ins Netz geschafft haben, dem ein oder anderem auch zugänglich machen, werde ich das zumindest nicht verhindern. Darum ging ich mit dem Netzlog auch online. Für den Namen habe ich mich gleich nochmal bei Leopold Kohr bedient und einfach den schön plakativen Titel seines ersten <a href="http://www.panarchy.org/kohr/1941.eng.html">Aufsatzes</a> zum Thema &#8220;Nichtvereinigung&#8221; geklaut.</p>
 
@@ -509,9 +498,9 @@ Natürlich ist reines Zitieren/Verlinken nicht besonders kreativ, aber zur Zeit 
   
   <entry>
     <title type="html"><![CDATA[Großmachtkomplexe: Kontrolle, Tyrannei, Kollektivismus]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/04/30/grossmachtkomplexe-kontrolle-tyrannei-kollektivismus/"/>
+    <link href="http://necedemalis.github.io/blog/2012/04/30/grossmachtkomplexe-kontrolle-tyrannei-kollektivismus/"/>
     <updated>2012-04-30T20:49:55+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/04/30/grossmachtkomplexe-kontrolle-tyrannei-kollektivismus</id>
+    <id>http://necedemalis.github.io/blog/2012/04/30/grossmachtkomplexe-kontrolle-tyrannei-kollektivismus</id>
     <content type="html"><![CDATA[<p><em>&#8220;Um dem langsamen, aber ständigen Feuer eines Weltstaates, in dem wir über kurz oder lang zu Staub und Asche verwandelt werden, zu entgehen, schlägt Toynbee[1. Arnold J. Toynbee, A Study of History, Gekürzte Ausgabe, New York 1947.] nicht die Gründung eines allumfassenden Einheitssystem vor, sondern eine Form der Weltordnung, vielleicht ähnlich der Homonoia, die von gewissen hellenistischen Staatsmännern und Philosophen vergeblich gepredigt wurde.
 Aber es gibt nur einen Weg, um eine solche Homonoia oder Harmonie zu gründen: die Wiederherstellung der Kleinstaatenwelt, aus der unsere individualistische westliche Zivilisation hervorgegangen ist und ohne die sie nicht weiterleben kann. Denn die Großmachtentwicklung treibt uns unweigerlich in das Zeitalter der <a href="http://alles-schallundrauch.blogspot.com/2011/12/monti-will-italien-in-eine-bargeldlose.html">Kontrolle</a>, der <a href="https://www.youtube.com/watch?v=bdob6QRLRJU&amp;feature=plcp">Tyrannei</a> und des <a href="http://www.youtube.com/watch?v=o0YrRM7yee0">Kollektivismus</a>.
 Da Toynbee die Ursache für ein Symptom hielt, ist er nicht zu dieser Erkenntnis gelangt, die sich aber auf Grund seiner eigenen großartigen Argumentation dem Leser aufdrängt. </em>[&#8230;]<em> Er erkennt nicht, daß die<strong> Entwicklung unvermeidlich wird in dem Augenblick, in dem Staaten größer werden als die optimale Größe im aristotelischen Sinn und Großmachtkomplexe bilden</strong>. Von da an bedeutet ein Weiterwachsen den herannahenden Ruin. Heute </em>[1957]<em> von den Vereinten Nationen und ihrer kulturellen Filiale, UNESCO, <img class="right" src="http://necedemalis.github.com/images/Uno.jpg" width="92" height="141" title="UNO" >getrieben ist der westliche Weltstaat bereits weit über die verschwommenen Umrisse einer &#8216;ideologischen Vorahnung&#8217; hinaus gediehen. Es scheint tatsächlich so zu sein, daß unsere Staatsmänner nichts anderes im <a href="https://www.youtube.com/watch?v=E7BsRvCsDlw&amp;list=PLFA3E50479A76AA1B&amp;index=1&amp;feature=plpp_video">Kopf</a> haben als unserer Vereinigung, die unserer Existenz sichern soll, unserer Zivilisation jedoch zum Tode verurteilt.
@@ -523,9 +512,9 @@ So scheint wieder die soziale Größe das Grundübel zu sein, sowohl des Guten w
   
   <entry>
     <title type="html"><![CDATA[Als Auftakt: Leopold Kohr]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/04/22/als-auftakt-leopold-kohr/"/>
+    <link href="http://necedemalis.github.io/blog/2012/04/22/als-auftakt-leopold-kohr/"/>
     <updated>2012-04-22T21:11:58+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/04/22/als-auftakt-leopold-kohr</id>
+    <id>http://necedemalis.github.io/blog/2012/04/22/als-auftakt-leopold-kohr</id>
     <content type="html"><![CDATA[<p><em>Im Falle des äußeren Elends können nur St</em><img class="right" src="http://necedemalis.github.com/images/DasEndederGro.jpg" width="153" height="235" title="Das Ende der Großen" ><em>aaten eine kritische Größe erreichen. Dies bedeutet, daß wir, wenn die Welt von einigen dieser Dränge nach aggressiver Kriegsführung befreit werden soll, wenig damit erreichen, indem wir versuchen, sie zu vereinigen. Wir würden nur das Terrorpotential vergrößern, welches aus gigantischer Größe hervorgeht. Was erreicht werden muß, ist genau das Gegenteil: <strong>die Zerstückelung der riesigen vereinigten nationalen Komplexe, die normalerweise Großmächte genannt werden</strong>. Denn nur diese besitzen in der heutigen Welt die soziale Größe, die es ihnen gestattet, Elend zu verbreiten, das wir zu verhindern trachten, dies aber nicht tun können, solange wir die Macht unangetastet lassen, die sie hervorrief.</em></p>
 
 <p>[Leopold Kohr – Das Ende der Großen (1957), S.108]</p>

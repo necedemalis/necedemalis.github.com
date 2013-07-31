@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tag: EU | Ne cede malis]]></title>
-  <link href="http://necedemalis.github.com/tags/eu/atom.xml" rel="self"/>
-  <link href="http://necedemalis.github.com/"/>
-  <updated>2013-06-25T10:58:11+02:00</updated>
-  <id>http://necedemalis.github.com/</id>
+  <link href="http://necedemalis.github.io/tags/eu/atom.xml" rel="self"/>
+  <link href="http://necedemalis.github.io/"/>
+  <updated>2013-07-31T13:26:28+02:00</updated>
+  <id>http://necedemalis.github.io/</id>
   <author>
     <name><![CDATA[Frasier Crane]]></name>
     <email><![CDATA[admin@necedemalis.info]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Deutschland am Scheideweg]]></title>
-    <link href="http://necedemalis.github.com/blog/2012/07/25/deutschland-am-scheidweg/"/>
+    <link href="http://necedemalis.github.io/blog/2012/07/25/deutschland-am-scheidweg/"/>
     <updated>2012-07-25T16:14:47+02:00</updated>
-    <id>http://necedemalis.github.com/blog/2012/07/25/deutschland-am-scheidweg</id>
+    <id>http://necedemalis.github.io/blog/2012/07/25/deutschland-am-scheidweg</id>
     <content type="html"><![CDATA[<p>Philipp Bagus skizziert in seinem erfolgreichen Buch <a href="https://mises.org/document/6045">'Die Tragödie des Euro'</a>
 ('The Tragedy of the Euro', 2011) in knapper Form die Probleme des Euros und der Europäischen
 Währungsunion (EWS) und erläutert, weshalb diese von Beginn an zum Scheitern verurteilt war.
